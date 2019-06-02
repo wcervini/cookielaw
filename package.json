@@ -1,0 +1,10 @@
+{
+  "name": "Cookielaw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wcervini <wcervini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
