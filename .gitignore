@@ -1,6 +1,7 @@
 .vscode
 yarn.lock
-/nodemodules/*
+/node_modules/*
 nota.txt
+yarn-error.log
 
 
