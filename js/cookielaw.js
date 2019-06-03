@@ -1,6 +1,6 @@
 /*
- * Bootstrap Cookie Lowby Walter Cervini
- * https://github.com/Wruczek/Bootstrap-Cookie-Alert
+ * CookieLaw by Walter Cervini
+ * 
  * Released under MIT license
  */
 (function () {
